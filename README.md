@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hi 👋, I'm Shailendra Kawadkar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendrakawadkar" alt="shailendrakawadkar" /></a> </p>
+
+- 💬 Ask me about **Angular, React, Material UI, JavaScript**
+
+- 📫 How to reach me **shailendrakawadkar7@gmail.com**
 
 
 ## 🌐 Socials:
