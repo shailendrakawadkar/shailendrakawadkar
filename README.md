@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shailendra Kawadkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **Angular, React, Material UI, JavaScript**
+🔭 I’m currently working on my Frontend(Angular, React)
 
-- 📫 How to reach me **shailendrakawadkar7@gmail.com**
+🌱 I’m currently learning Data Structures and Algorithms.
+
+🤝 I’m doing Problem Solving on leetcode and codechef.
+
+👯 I`m willing to collaborate on Any Project Related with Angular, UI/UX.
+
+💬 Ask me about C++, DSA, Frontend Development, Open Source.
+
+📫 How to reach me **shailendrakawadkar7@gmail.com**
 
 
 ## 🌐 Socials:
