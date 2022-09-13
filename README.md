@@ -24,6 +24,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shailendrakawadkar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrakawadkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendrakawadkar" alt="shailendrakawadkar" /></a> </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=shailendrakawadkar&icon=7&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendrakawadkar" alt="shailendrakawadkar" /></a> </p>
+
